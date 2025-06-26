@@ -8,10 +8,10 @@
             </div>
             <div class="footer-column">
                 <h4>QUICK LINKS</h4>
-                <p><a href="#">Home</a></p>
+                <p><a href="index.php">Home</a></p>
                 <p><a href="#">About Us</a></p>
                 <p><a href="#">Services</a></p>
-                <p><a href="#">Contact Us</a></p>
+                <p><a href="contact.php">Contact Us</a></p>
             </div>
             <div class="footer-column">
                 <h4>OUR FLEET</h4>
@@ -34,10 +34,10 @@
                 <div class="logo"><img src="bootstrap/images/footer-logo.png" alt=""></div>
                 <p>We are company name (Car Rentals), an online cab booking aggregator</p>
                 <div class="social-icons">
-                    <a href="#">📘</a>
-                    <a href="#">🐦</a>
-                    <a href="#">▶️</a>
-                    <a href="#">📸</a>
+                    <a href="#"><i class="bi bi-facebook"></i></a>
+                    <a href="#"><i class="bi bi-twitter"></i></a>
+                    <a href="#"><i class="bi bi-youtube"></i></a>
+                    <a href="#"><i class="bi bi-instagram"></i></a>
                 </div>
             </div>
         </div>
@@ -80,6 +80,10 @@
                 toInput.placeholder = placeholders[type].to;
             });
         });
+        function toggleMenu(toggler) {
+      toggler.classList.toggle('active');
+      document.getElementById('navMenu').classList.toggle('show');
+    }
     </script>
 
 </body>

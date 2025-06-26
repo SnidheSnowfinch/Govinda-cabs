@@ -16,15 +16,15 @@
                 <button type="button" class="tab-btn" data-type="local">LOCAL</button>
                 <button type="button" class="tab-btn" data-type="airport">AIRPORT</button>
             </div>
-            <div class="form-row">
+            <div class="form-row-home">
                 <input type="text" id="fromInput" placeholder="Enter Pickup City" />
                 <input type="text" id="toInput" placeholder="Enter Drop City" />
             </div>
-            <div class="form-row">
+            <div class="form-row-home">
                 <input type="date" />
                 <input type="time" />
             </div>
-            <button type="submit" class="explore-btn">EXPLORE CABS</button>
+            <button type="submit" class="explore-btn btn-slide">EXPLORE CABS</button>
         </form>
 
     </section>
@@ -84,7 +84,7 @@
                     complete reliability. Book in advance and rest
                     easy - we will take care of the rest.
                 </p>
-                <button>BOOK NOW</button>
+                <button class="btn-slide">BOOK NOW</button>
             </div>
             <div class="card">
                 <img src="bootstrap/images/service-img.jpg" alt="Airport Transfer">
@@ -96,7 +96,7 @@
                     complete reliability. Book in advance and rest
                     easy - we will take care of the rest.
                 </p>
-                <button>BOOK NOW</button>
+                <button class="btn-slide">BOOK NOW</button>
             </div>
             <div class="card">
                 <img src="bootstrap/images/service-img.jpg" alt="Airport Transfer">
@@ -108,7 +108,7 @@
                     complete reliability. Book in advance and rest
                     easy - we will take care of the rest.
                 </p>
-                <button>BOOK NOW</button>
+                <button class="btn-slide">BOOK NOW</button>
             </div>
             <div class="card">
                 <img src="bootstrap/images/service-img.jpg" alt="Airport Transfer">
@@ -120,7 +120,7 @@
                     complete reliability. Book in advance and rest
                     easy - we will take care of the rest.
                 </p>
-                <button>BOOK NOW</button>
+                <button class="btn-slide">BOOK NOW</button>
             </div>
         </div>
     </section>
@@ -129,7 +129,7 @@
 
 
         <div class="travel-banner">
-            <img src="bootstrap/images/banner-home.png" alt="Luxury Car" />
+            <img src="bootstrap/images/banner-home.png" alt="Luxury Car" class="travel-banner-img">
             <div class="banner-text">MAKE YOUR TRAVEL WITH LUXURY</div>
             <div class="banner-logo"><img src="bootstrap/images/footer-logo.png" alt=""></div>
 

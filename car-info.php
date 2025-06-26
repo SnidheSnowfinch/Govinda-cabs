@@ -57,7 +57,7 @@
     <div class="save">Save ₹337</div>
     <div class="final-price">₹3374</div>
     <div class="tax">Inclusive of GST</div>
-    <button class="book-btn">BOOK NOW</button>
+    <button class="book-btn btn-slide">BOOK NOW</button>
   </div>
 </div>
 <div class="car-card">
@@ -93,7 +93,7 @@
     <div class="save">Save ₹337</div>
     <div class="final-price">₹3374</div>
     <div class="tax">Inclusive of GST</div>
-    <button class="book-btn">BOOK NOW</button>
+    <button class="book-btn btn-slide">BOOK NOW</button>
   </div>
 </div>
 </section>

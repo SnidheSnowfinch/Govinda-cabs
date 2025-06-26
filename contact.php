@@ -11,9 +11,9 @@
   <!-- Left Side -->
   <div class="contact-left">
     <img src="bootstrap/images/contact.png" alt="Contact Image">
-    <div class="info-box"><i class="bi bi-envelope"></i>company@gmail.com</div>
-    <div class="info-box phone"><i class="bi bi-telephone"></i>+91 123456789</div>
-    <div class="info-box address"><i class="bi bi-geo-alt"></i>123 street B block, 4th floor</div>
+    <div class="info-box-contact"><i class="bi bi-envelope me-2"></i>company@gmail.com</div>
+    <div class="info-box-contact phone"><i class="bi bi-telephone me-2"></i>+91 123456789</div>
+    <div class="info-box-contact address"><i class="bi bi-geo-alt me-2"></i>123 street B block, 4th floor</div>
   </div>
 
   <!-- Right Side -->
@@ -52,7 +52,7 @@
 
 </span>
     </div>
-    <div class="text-end">    <button class="book-btn">EXPLORE CABS</button>
+    <div class="text-end-btn">    <button class="book-btn btn-slide ">EXPLORE CABS</button>
     </div>
   </div>
 </div>

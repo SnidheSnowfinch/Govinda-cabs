@@ -11,17 +11,17 @@
     <p>Have a question or need assistance? We’re here to help! Contact us for bookings, inquiries, or feedback. Reach out anytime, and our team will ensure you have a smooth and hassle-free experience with us. Your journey is our priority!</p>
 <div class="row">
     <div class="col-lg-4 col-md-6 col-am-12">
-    <div class="info-box">
-        <i class="bi bi-envelope"></i>company@gmail.com</div>
+    <div class="info-box-contact">
+        <i class="bi bi-envelope me-2"></i>company@gmail.com</div>
 
     </div>
     <div class="col-lg-4 col-md-6 col-am-12">
-    <div class="info-box phone"><i class="bi bi-telephone"></i>+91 123456789</div>
+    <div class="info-box-contact phone"><i class="bi bi-telephone me-2"></i>+91 123456789</div>
 
     </div>
 
     <div class="col-lg-4 col-md-6 col-am-12">
-    <div class="info-box address"><i class="bi bi-geo-alt"></i>123 street B block, 4th floor</div>
+    <div class="info-box-contact address"><i class="bi bi-geo-alt me-2"></i>123 street B block, 4th floor</div>
 
     </div>
 
@@ -74,7 +74,7 @@
 
 </span>
     </div>
-    <div class="text-end">    <button class="book-btn">EXPLORE CABS</button>
+    <div class="text-end">    <button class="book-btn btn-slide">EXPLORE CABS</button>
     </div>
   </div>
 </div>

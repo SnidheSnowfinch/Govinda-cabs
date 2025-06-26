@@ -44,7 +44,7 @@
       <div class="gst-label">Inclusive of GST</div>
       
     </div>
-    <div class="text-center"><button class="book-btn">BOOK NOW</button></div>
+    <div class="btn-center"><button class="book-btn btn-slide">BOOK NOW</button></div>
   </div>
   <div class="car-box">
     <div class="car-left">
@@ -70,7 +70,7 @@
       <div class="gst-label">Inclusive of GST</div>
       
     </div>
-    <div class="text-center"><button class="book-btn">BOOK NOW</button></div>
+    <div class="btn-center"><button class="book-btn btn-slide">BOOK NOW</button></div>
   </div>
   <div class="car-box">
     <div class="car-left">
@@ -96,7 +96,7 @@
       <div class="gst-label">Inclusive of GST</div>
       
     </div>
-    <div class="text-center"><button class="book-btn">BOOK NOW</button></div>
+    <div class="btn-center"><button class="book-btn btn-slide">BOOK NOW</button></div>
   </div>
   <div class="car-box">
     <div class="car-left">
@@ -122,7 +122,7 @@
       <div class="gst-label">Inclusive of GST</div>
       
     </div>
-    <div class="text-center"><button class="book-btn">BOOK NOW</button></div>
+    <div class="btn-center"><button class="book-btn btn-slide">BOOK NOW</button></div>
   </div>
   
   </div>
