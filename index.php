@@ -44,8 +44,6 @@
         </section>
     </section>
     <section class="div-container">
-
-
         <h2>WHAT SETS SAVAARI APART?</h2>
         <div class="features">
             <div class="feature">
